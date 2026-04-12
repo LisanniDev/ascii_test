@@ -1,0 +1,21 @@
+[title-page]
+
+[.text-center]
+image::{imagesdir}/logo-main.svg[pdfwidth=4cm,align=center]
+
+[.text-center]
+[big]#*{fullname}*#
+
+[.text-center]
+[large]#{title}#
+
+[.text-center]
+image::{imagesdir}/eac.svg[pdfwidth=2cm,align=center]
+
+[.text-center]
+*ОКПД2 {okpd}*
+
+[.text-center]
+{company}
+
+<<<

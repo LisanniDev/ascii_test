@@ -1,0 +1,8 @@
+
+include::attributes.adoc[]
+include::{model}[]
+
+include::format/title-page.adoc[]
+
+include::chapters/00.adoc[]
+include::chapters/01.adoc[]

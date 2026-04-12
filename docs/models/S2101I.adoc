@@ -1,0 +1,6 @@
+:name: Сервер
+:model: С2101И
+:code: ТСЦМ.123456.123
+:execution: 01
+:ersion: V00
+:okpd: 26.20.14

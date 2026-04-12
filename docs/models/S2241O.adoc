@@ -1,0 +1,6 @@
+:name: Сервер
+:model: С2241О
+:code: ТСЦМ.123456.123
+:execution: 02
+:ersion: V00
+:okpd: 26.20.14

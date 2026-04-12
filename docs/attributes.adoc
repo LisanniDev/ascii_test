@@ -1,0 +1,12 @@
+:doctype: book
+:icons: font
+:sectnums:
+:pdf-theme: theme/brand-theme.yml
+:pdf-themesdir: theme
+:imagesdir: images
+:lang: ru
+
+:title: Паспорт
+:doccode: ПС
+:company: ООО «Ревотех»
+:description: определение сервера в одну длинную строку.
