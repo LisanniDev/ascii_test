@@ -25,8 +25,9 @@ font:
   catalog:
     merge: true
     BrandFont:
-      normal: ../fonts/Brand-Regular.ttf
-      bold: ../fonts/Brand-Bold.ttf
+      normal: ../fonts/Roboto-Regular.ttf
+      bold: ../fonts/Roboto-Bold.ttf
+      italic: ../fonts/Roboto-Italic.ttf
 
 footer:
   recto:

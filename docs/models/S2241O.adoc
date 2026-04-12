@@ -1,3 +1,4 @@
+:model-name: S2241O
 :name: Сервер
 :model: С2241О
 :code: ТСЦМ.123456.123

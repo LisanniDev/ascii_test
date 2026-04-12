@@ -1,3 +1,4 @@
+:model-name: S2101I
 :name: Сервер
 :model: С2101И
 :code: ТСЦМ.123456.123

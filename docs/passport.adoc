@@ -1,6 +1,6 @@
 
 include::attributes.adoc[]
-include::{model}[]
+include::{include-model}[]
 
 include::format/title-page.adoc[]
 
